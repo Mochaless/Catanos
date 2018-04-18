@@ -1,0 +1,32 @@
+button[type=button]{
+	 background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button[type=button]:hover {
+    background-color: #45a049;
+}
+
+h2{
+	text-align: center;
+}
+
+#contenido{
+	width: 80%;
+	margin: auto;
+}
+
+#user{
+display: inline-block;
+float:left;
+
+}
+
+#empresa{
+display: inline-block;
+float: right;
+}

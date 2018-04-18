@@ -1,0 +1,127 @@
+ul#admin {
+	list-style-type: none;
+}
+ul#producto {
+  list-style-type: none;
+}
+
+ul#cata {
+  list-style-type: none;
+}
+
+ul#visit {
+  list-style-type: none;
+}
+
+ul#admin li:before {
+
+  content: '';
+
+  display: inline-block;
+
+  height: 50px;
+
+  width: 50px;
+
+  background-size: 50px;
+
+  background-image: url('../Img/admin.jpg');
+  
+  vertical-align: middle;
+
+  background-repeat: no-repeat;
+
+  margin-right: 5px;
+}
+
+ul#producto li:before {
+
+  content: '';
+
+  display: inline-block;
+
+  height: 50px;
+
+  width: 50px;
+
+  background-size: 50px;
+
+  background-image: url('../Img/company.jpg');
+  
+  vertical-align: middle;
+
+  background-repeat: no-repeat;
+
+  margin-right: 5px;
+}
+
+ul#cata li:before {
+
+  content: '';
+
+  display: inline-block;
+
+  height: 50px;
+
+  width: 50px;
+
+  background-size: 50px;
+
+  background-image: url('../Img/cata.jpg');
+  
+  vertical-align: middle;
+
+  background-repeat: no-repeat;
+
+  margin-right: 5px;
+}
+
+ul#visit li:before {
+
+  content: '';
+
+  display: inline-block;
+
+  height: 50px;
+
+  width: 50px;
+
+  background-size: 50px;
+
+  background-image: url('../Img/users.jpg');
+  
+  vertical-align: middle;
+
+  background-repeat: no-repeat;
+
+  margin-right: 5px;
+}
+
+ul.secciones{
+
+}
+
+h1{
+	font-size: 20px
+	font-weight: bold;
+}
+
+h2{
+	font-weight: bold;
+}
+
+h3{
+	font-weight: bold;
+}
+
+h4{
+	font-weight: bold;
+}
+strong, b {
+	font-weight: normal; 
+}
+
+@font-face{
+	font-weight: normal;
+	font-style: normal;
+}

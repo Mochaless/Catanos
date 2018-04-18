@@ -1,0 +1,39 @@
+#infoempresa {
+	position: center;
+	border: 1px, red;
+	margin: 0 auto;
+
+}
+
+#logoemp {
+	display: block;
+	margin: auto;
+	position: center;
+}
+
+#vinosemp {
+
+}
+
+#vinos {
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  margin-left: 20px;
+  padding: 10px;
+  float: left;
+  display: inline-block;
+}
+#upload {
+	width: 60px;
+	height: 60px;
+	float: bottom;
+
+}
+
+#super {
+	margin-left: 230px;
+	position: center;
+
+}
